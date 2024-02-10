@@ -5,7 +5,7 @@
 
 /**
  *
- * @author RYZEN 3-5600H
+ * @author Zaenal Muttakin
  */
 public class Welcome {
 	public static void main(String[]args) {
