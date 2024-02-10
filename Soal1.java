@@ -6,7 +6,7 @@ package soal1;
 
 /**
  *
- * @author RYZEN 3-5600H
+ * @author Zaenal Muttakin
  */
 public class Soal1 {
     public static void main(String[] args) {
