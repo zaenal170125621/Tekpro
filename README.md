@@ -1,2 +1,3 @@
-# Tekprog_praktikum1
-Laporan Tugas Teknik Pemrograman 1
+# Tekprog praktikum
+Laporan Tugas Teknik Pemrograman ini untuk keperluan penyimpanan source code
+dan juga untuk pembiasaan dan pengembangan dalam penggunaan github
